@@ -59,7 +59,7 @@ wget -q https://raw.githubusercontent.com/Nizwarax/Xray-Only/main/update.sh && c
 - Copyright © 2025 by KILLER Vermilion Project
 
 **Donate For Support me:**
-![QRIS Image](https://github.com/vermiliion/Xray-Only/raw/main/Qris.png)
+![QRIS Image](https://github.com/Nizwarax/Xray-Only/raw/main/Qris.png)
 
 **My Telegram Contacts**
 https://t.me/Deki_niswara
